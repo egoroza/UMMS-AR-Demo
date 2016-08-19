@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="ITHeart" size="5.000000 4.814815" />
+    <ImageTarget name="skull" size="10.000000 11.347518" />
+  </Tracking>
+</QCARConfig>
